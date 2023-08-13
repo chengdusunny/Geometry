@@ -9,7 +9,7 @@
 - 斯特瓦尔特定理
 - 西姆松定理
 - 张角定理 
-- 定差幂线定理 [link](https://blog.csdn.net/Jinyindao243052/article/details/125778245) 
+- [定差幂线定理](https://blog.csdn.net/Jinyindao243052/article/details/125778245) 
 
 九点圆
 
@@ -22,7 +22,7 @@
 - 重心
 - 垂心
 
-圆极点与极线的性质 https://blog.csdn.net/Jinyindao243052/article/details/125802345
+[圆极点与极线的性质](https://blog.csdn.net/Jinyindao243052/article/details/125802345)
 
-牛顿定理和相关推论 https://blog.csdn.net/Jinyindao243052/article/details/126112042
+[牛顿定理和相关推论](https://blog.csdn.net/Jinyindao243052/article/details/126112042)
 
